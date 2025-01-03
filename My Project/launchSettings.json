@@ -1,0 +1,44 @@
+{
+  "profiles": {
+    "RoutingProtocolHive": {
+      "commandName": "Project",
+      "commandLineArgs": "-bytecode -QoS+(1) -QoS+(5) -supressbytecode -updateonlyclass",
+      "workingDirectory": "D:\\CompilerJ",
+      "environmentVariables": {
+        "$PATH/bin/FSB": "2",
+        "$PATH/bin/USB": "16",
+        "$PATH/bin/kernel40": "256",
+        "$PATH/sys32/kernelx86": "192",
+        "$PATH/sys32/QoS1": "64",
+        "$PATH/bin": "64",
+        "$ARM/bin": "64",
+        "$ARM/bin/192": "4",
+        "$ARM/BIN/256x86": "64",
+        "$ARM/BIN/classx86": "192"
+      },
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "localhost:443",
+      "sqlDebugging": true
+    },
+    "QoS+D": {
+      "commandName": "Project",
+      "commandLineArgs": "-bytecode -QoS+(1) -QoS+(5) -supressbytecode -updateonlyclass",
+      "workingDirectory": "D:\\CompilerJ",
+      "environmentVariables": {
+        "$PATH/bin/FSB": "2",
+        "$PATH/bin/USB": "16",
+        "$PATH/bin/kernel40": "256",
+        "$PATH/sys32/kernelx86": "192",
+        "$PATH/sys32/QoS1": "64",
+        "$PATH/bin": "64",
+        "$ARM/bin": "64",
+        "$ARM/bin/192": "4",
+        "$ARM/BIN/256x86": "64",
+        "$ARM/BIN/classx86": "192"
+      },
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "localhost:443",
+      "sqlDebugging": true
+    }
+  }
+}

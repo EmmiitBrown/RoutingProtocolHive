@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>RoutingProtocolHive</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <Configurations>Debug;Release;QoS+192-bit;QoS+256-bit</Configurations>
+    <Platforms>AnyCPU;ARM64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>

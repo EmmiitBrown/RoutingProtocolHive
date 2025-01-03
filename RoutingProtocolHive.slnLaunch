@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "QoSHandler2$User1",
+    "Projects": [
+      {
+        "Path": "RoutingProtocolHive.vbproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "QoS+D"
+      }
+    ]
+  }
+]

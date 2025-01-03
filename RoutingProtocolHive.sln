@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RoutingProtocolHive", "RoutingProtocolHive.vbproj", "{28B0E3FD-8B0D-443C-A018-B76A811D1263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x86 = Debug|x86
+		QoS+192-bit|Any CPU = QoS+192-bit|Any CPU
+		QoS+192-bit|ARM64 = QoS+192-bit|ARM64
+		QoS+192-bit|x86 = QoS+192-bit|x86
+		QoS+256-bit|Any CPU = QoS+256-bit|Any CPU
+		QoS+256-bit|ARM64 = QoS+256-bit|ARM64
+		QoS+256-bit|x86 = QoS+256-bit|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|ARM64.Build.0 = Debug|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Debug|x86.Build.0 = Debug|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|Any CPU.ActiveCfg = QoS+192-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|Any CPU.Build.0 = QoS+192-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|ARM64.ActiveCfg = QoS+192-bit|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|ARM64.Build.0 = QoS+192-bit|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|x86.ActiveCfg = QoS+192-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+192-bit|x86.Build.0 = QoS+192-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|Any CPU.ActiveCfg = QoS+256-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|Any CPU.Build.0 = QoS+256-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|ARM64.ActiveCfg = QoS+256-bit|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|ARM64.Build.0 = QoS+256-bit|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|x86.ActiveCfg = QoS+256-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.QoS+256-bit|x86.Build.0 = QoS+256-bit|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|ARM64.ActiveCfg = Release|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|ARM64.Build.0 = Release|ARM64
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|x86.ActiveCfg = Release|Any CPU
+		{28B0E3FD-8B0D-443C-A018-B76A811D1263}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
